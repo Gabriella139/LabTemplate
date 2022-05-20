@@ -4,7 +4,7 @@
   "description": "SpaceWordle Project",
   "main": "index.js",
   "scripts": {
-    "start:backend": "nodemon index.js"
+    "start":"node index.js"
   },
   "author": "Bongekile Mqhakama",
   "license": "ISC",
